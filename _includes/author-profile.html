@@ -30,12 +30,12 @@
       {% if author.employer %}
         <li class="author__desktop"><i class="fa fa-solid fa-building-columns icon-pad-right" aria-hidden="true"></i>{{ author.employer }}</li>
       {% endif %}
-      {% if author.uri %}
-        <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
-      {% endif %}
       {% if author.email %}
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
       {% endif %}
+      {% if author.pgp_public_key %}
+      <li><a href="{{ author.pgp_public_key }}" target="_blank"><i class="fas fa-fw fa-key icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].pgp_label | default: "PGP Key(ECC)" }}</a></li>
+    {% endif %}
 
       <!-- Font Awesome and Academicons icons / Academic websites -->
       {% if author.arxiv %}
@@ -87,6 +87,9 @@
       {% if author.facebook %}
         <li><a href="https://www.facebook.com/{{ author.facebook }}"><i class="fab fa-fw fa-facebook-f icon-pad-right" aria-hidden="true"></i>Facebook</a></li>
       {% endif %}
+      {% if author.keybase %}
+      <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key icon-pad-right" aria-hidden="true"></i>Keybase</a></li>
+      {% endif %}
       {% if author.flickr %}
         <li><a href="https://www.flickr.com/{{ author.flickr }}"><i class="fab fa-fw fa-flickr icon-pad-right" aria-hidden="true"></i>Flickr</a></li>
       {% endif %}      
@@ -99,9 +102,6 @@
       {% if author.google_plus %}
         <li><a href="https://plus.google.com/+{{ author.google_plus }}"><i class="fab fa-fw fa-google-plus-g icon-pad-right" aria-hidden="true"></i>Google+</a></li>
       {% endif %}            
-      {% if author.keybase %}
-        <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key icon-pad-right" aria-hidden="true"></i>Keybase</a></li>
-      {% endif %}
       {% if author.instagram %}
         <li><a href="https://instagram.com/{{ author.instagram }}"><i class="fab fa-fw fa-instagram icon-pad-right" aria-hidden="true"></i>Instagram</a></li>
       {% endif %}      
