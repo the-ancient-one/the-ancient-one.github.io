@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "en-GB"
 title                    : "Bharath Sadashivaiah"
 title_separator          : "-"
 name                     : &name "Bharath Sadashivaiah"
@@ -24,7 +24,7 @@ author:
   avatar           : "IMG_0506.jpeg"
   name             : "Bharath Sadashivaiah"
   pronouns         : # example: "she/her"  
-  bio              : "Master Student studying Cyber Security Engineering"
+  bio              : "Cloud Security & Platform Engineer | Lecturer in Security Engineering | DevSecOps"
   location         : "Coventry, UK"
   employer         : "University of Warwick"
   uri              : #/files/paper1.pdf
@@ -34,7 +34,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0009-8716-6401"
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
