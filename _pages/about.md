@@ -12,12 +12,24 @@ redirect_from:
   <span id="language"></span> 
   <span id="hand-wave">👋</span>
 </div> 
-I am a masters student studying Cyber Security Engineering at University of Warwick, thesis project focusing around post-quantum cryptography and privacy-enhancing technologies (Zero-knowledge). 
 
-Previous work expertise encompasses software development, systems architecture, and high-availability solutions. I have endeavoured to keep the focus on secure designs with real-world practicality and simplifying lives, which continues to be a key influence in the current role.
+I am a **Lecturer in Security Engineering** at the **University of Warwick**, where I deliver undergraduate teaching in cyber security, software engineering, and secure systems. In my current role, I help build and teach the infrastructure that future security engineers learn on, with a strong emphasis on practical, engineering-led security education.
 
+My professional background spans security engineering, DevSecOps, platform engineering, and large-scale operational systems, with close to a decade of experience across **BT Group**, **Flipkart**, and the **University of Warwick’s Cyber Security Centre**. My work has included enterprise software delivery, production infrastructure, secure platform operations, and hands-on teaching environments that connect theory to real-world systems.
 
+Across industry roles, I have worked at the intersection of **secure platform operations and engineering delivery**. This has included supporting DNS services handling 10B+ queries per month, building privileged-access automation using HashiCorp Vault and SSH certificate-based access in DMZ environments, and designing TLS/SSL certificate lifecycle processes across 600+ certificates and 4,000+ domains. Earlier work also included application migration, CI/CD modernisation, systems design, and resilience engineering in regulated enterprise settings.
 
+I hold an **MSc in Cyber Security Engineering (First Class with Distinction)** from the **University of Warwick**, aligned with NCSC and BCS accreditation frameworks. My master’s thesis focused on post-quantum cryptography and privacy-enhancing technologies, including secure messaging and zero-knowledge–oriented approaches. I also hold a **Bachelor’s degree in Mechanical Engineering**,  where I worked on the performance analysis of smart journal-bearing systems, an area relevant to semi-active control of bearing behaviour. The work used 3-D computational fluid dynamics (CFD) to model hydrodynamically lubricated bearings with Bingham-type non-Newtonian fluids, including electro-rheological and magneto-rheological lubrication behaviour.
+
+My work and interests focus on:
+- Cloud native Secure SDLC and DevSecOps practices  
+- CI/CD and GitOps-based platform design  
+- Cloud and hybrid infrastructure migration  
+- DNS, PKI, and certificate lifecycle management at scale  
+- Post-quantum and applied cryptography  
+- Hands-on, engineering-led cyber security education  
+
+What connects my work across both industry and academia is a consistent focus on making systems **more resilient, more secure, and easier to operate at scale**. I am particularly interested in how sound engineering practice shapes modern security architecture, especially in areas such as secure-by-default infrastructure, platform governance, hybrid cloud security posture, and zero-trust-oriented design.
 
 <script>
   const greetings = [
@@ -28,17 +40,6 @@ Previous work expertise encompasses software development, systems architecture, 
     {"language":"Morse Code","about":"https://en.wikipedia.org/wiki/Morse_code","greeting":".... . .-.. .-.. ---"},
     {"language":"Braille","about":"https://en.wikipedia.org/wiki/Braille","greeting":"⠓⠑⠇⠇⠕"},
     {"language":"Esperanto","about":"https://en.wikipedia.org/wiki/Esperanto","greeting":"Saluton"},
-    {"language":"Afrikaans","about":"https://en.wikipedia.org/wiki/Afrikaners","greeting":"hallo"},
-    {"language":"Albanian","about":"https://en.wikipedia.org/wiki/Albania","greeting":"Përshëndetje"},
-    {"language":"Amharic","about":"https://en.wikipedia.org/wiki/Amhara_people","greeting":"ሰላም"},
-    {"language":"Arabic","about":"https://en.wikipedia.org/wiki/Arab_world","greeting":"مرحبا"},
-    {"language":"Armenian","about":"https://en.wikipedia.org/wiki/Armenians","greeting":"Բարեւ"},
-    {"language":"Azerbaijani","about":"https://en.wikipedia.org/wiki/Azerbaijanis","greeting":"Salam"},
-    {"language":"Basque","about":"https://en.wikipedia.org/wiki/Basque_Country_(greater_region)","greeting":"Kaixo"},
-    {"language":"Belarusian","about":"https://en.wikipedia.org/wiki/Belarus","greeting":"добры дзень"},
-    {"language":"Bengali","about":"https://en.wikipedia.org/wiki/Bengal","greeting":"নমস্কার"},
-    {"language":"Bosnian","greeting":"zdravo"},
-    {"language":"Bulgarian","greeting":"Здравейте"},
     {"language":"Catalan","greeting":"Hola"},
     {"language":"Chichewa","greeting":"Moni"},
     {"language":"Chinese (Simplified)","greeting":"您好"},
@@ -48,7 +49,6 @@ Previous work expertise encompasses software development, systems architecture, 
     {"language":"Czech","greeting":"Ahoj"},
     {"language":"Danish","greeting":"Hej"},
     {"language":"Dutch","greeting":"Hallo"},
-    {"language":"Esperanto","greeting":"Saluton"},
     {"language":"Estonian","greeting":"Tere"},
     {"language":"Finnish","greeting":"Hei"},
     {"language":"French","greeting":"Bonjour"},
@@ -56,12 +56,10 @@ Previous work expertise encompasses software development, systems architecture, 
     {"language":"Georgian","about":"https://en.wikipedia.org/wiki/Georgia_(country)","greeting":"გამარჯობა"},
     {"language":"German","greeting":"Hallo"},
     {"language":"Greek","greeting":"Γεια σας"},
-    {"language":"Gujarati","about":"https://en.wikipedia.org/wiki/Gujarati_people","greeting":"હેલો"},
     {"language":"Haitian Creole","greeting":"Bonjou"},
     {"language":"Hausa","greeting":"Sannu"},
     {"language":"Hawaiian","about":"https://en.wikipedia.org/wiki/Hana_Highway","greeting":"Alohaʻoe"},
     {"language":"Hebrew","greeting":"שלום"},
-    {"language":"Hindi","greeting":"नमस्ते"},
     {"language":"Hmong","about":"https://en.wikipedia.org/wiki/Hmong_people","greeting":"Nyob zoo"},
     {"language":"Hungarian","greeting":"Helló"},
     {"language":"Icelandic","greeting":"Halló"},
@@ -70,7 +68,6 @@ Previous work expertise encompasses software development, systems architecture, 
     {"language":"Irish","greeting":"Dia duit"},
     {"language":"Italian","greeting":"Ciao"},
     {"language":"Japanese","greeting":"こんにちは"},
-    {"language":"Kannada","greeting":"ಹಲೋ"},
     {"language":"Kazakh","greeting":"Сәлем"},
     {"language":"Khmer","greeting":"ជំរាបសួរ"},
     {"language":"Kyrgyz","greeting":"салам"},
@@ -80,24 +77,16 @@ Previous work expertise encompasses software development, systems architecture, 
     {"language":"Lithuanian","greeting":"Sveiki"},
     {"language":"Luxembourgish","greeting":"Moien"},
     {"language":"Macedonian","greeting":"Здраво"},
-    {"language":"Malayalam","greeting":"ഹലോ"},
     {"language":"Maori","greeting":"Hiha"},
-    {"language":"Marathi","greeting":"हॅलो"},
-    {"language":"Mongolian","greeting":"Сайн байна уу"},
     {"language":"Myanmar (Burmese)","greeting":"မင်္ဂလာပါ"},
-    {"language":"Nepali","greeting":"नमस्ते"},
     {"language":"Norwegian","greeting":"Hallo"},
     {"language":"Pashto","about":"https://en.wikipedia.org/wiki/Pashtuns","greeting":"سلام"},
     {"language":"Persian","greeting":"سلام"},
     {"language":"Polish","greeting":"Cześć"},
     {"language":"Portuguese","greeting":"Olá"},
-    {"language":"Punjabi","greeting":"ਹੈਲੋ"},
     {"language":"Romanian","greeting":"Alo"},
     {"language":"Russian","greeting":"привет"},
     {"language":"Samoan","greeting":"Talofa"},
-    {"language":"Serbian","greeting":"Здраво"},
-    {"language":"Sindhi","about":"https://en.wikipedia.org/wiki/Sindh","greeting":"هيلو"},
-    {"language":"Sinhala","about":"https://en.wikipedia.org/wiki/Sri_Lanka","greeting":"හෙලෝ"},
     {"language":"Slovak","greeting":"ahoj"},
     {"language":"Slovenian","greeting":"Pozdravljeni"},
     {"language":"Spanish","greeting":"Hola"},
@@ -105,12 +94,9 @@ Previous work expertise encompasses software development, systems architecture, 
     {"language":"Swahili","greeting":"Sawa"},
     {"language":"Swedish","greeting":"Hallå"},
     {"language":"Tajik","greeting":"Салом"},
-    {"language":"Tamil","greeting":"வணக்கம்"},
-    {"language":"Telugu","greeting":"హలో"},
     {"language":"Thai","greeting":"สวัสดี"},
     {"language":"Turkish","greeting":"Merhaba"},
     {"language":"Ukranian","greeting":"Здрастуйте"},
-    {"language":"Urdu","greeting":"ہیلو"},
     {"language":"Uzbek","greeting":"Salom"},
     {"language":"Vietnamese","greeting":"Xin chào"},
     {"language":"Welsh","greeting":"Helo"},
