@@ -9,17 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* MSc in Cyber Security Engineering, University of Warwick Coventry, 2024
-* BEng in Mechanical Engineering,PES College of Engineering, VTU, India, 2015
 
 Professional Experience
-
+======
 ## Lecturer, Security Engineering  
 **University of Warwick, Coventry, UK**  
 *Dec 2024 – Present*
-
 - Leading Security and Software Engineering teaching across **three undergraduate modules** to approximately **120 students**, covering programming, secure SDLC, DevSecOps, Linux-based systems, and hands-on engineering exercises.
 
 ---
@@ -48,13 +43,11 @@ Professional Experience
 - Participated in **RCA investigations** and ITIL-aligned operational improvements.
 - Supported analytics applications interfacing with **40+ systems**, reducing rerun time by **15%**.
 
-## ACHIEVEMENTS
-- **WMG Excellence Scholarship (2023 UK),** For academic excellence.
-- **Quaterly Outstanding Performance Award (2023 India),** For optimising app delivery and reducing DNS billing by 3x.
-- **Pat on the back Award (2021 UK),** For implementing CI/CD pipelines and shaping agile SDLC(Software Development Life Cycle).
-- **Bravo Award (2019 UK),** For successful migration of critical financial auditing system with zero data loss and downtime.
-- **Pat on the back Award (2019 India),** For improving field engineer appointment scheduling and connecting to the Right First Time campaign.
-  
+Education
+======
+* MSc in Cyber Security Engineering (First Class with Distinction), University of Warwick Coventry, 2024
+* BEng in Mechanical Engineering (First Class with Distinction),PES College of Engineering, VTU, India, 2015
+
 ## Core Skills
 
 **Solution Design & Architecture:**  
@@ -95,16 +88,27 @@ Selenium, Spock, Hadoop (Hive, Sqoop, Oozie), Prometheus, Grafana, ELK, Splunk, 
 **Databases:**  
 Oracle, Microsoft SQL Server, MySQL, MongoDB
 
-## Professional Memberships
+## ACHIEVEMENTS
+- **WMG Excellence Scholarship (2023 UK),** For academic excellence.
+- **Quaterly Outstanding Performance Award (2023 India),** For optimising app delivery and reducing DNS billing by 3x.
+- **Pat on the back Award (2021 UK),** For implementing CI/CD pipelines and shaping agile SDLC(Software Development Life Cycle).
+- **Bravo Award (2019 UK),** For successful migration of critical financial auditing system with zero data loss and downtime.
+- **Pat on the back Award (2019 India),** For improving field engineer appointment scheduling and connecting to the Right First Time campaign.
 
-- **British Computer Society (BCS)** — Professional Member ([link](https://bcs.digitalmembership.co.uk/B816D26/download/certcE995264853Df238914pP8211864.php))
+## Certifications and Badges
 
-## Certifications
-
+- **Gemini for Security Engineers** - Google Cloud ([link](https://www.skills.google/public_profiles/9de5be1e-d798-436c-a2e8-621847847d63/badges/23616620))
+- **Agentic Strategy: Discover, Design, and Prototype** - Google Cloud ([link](https://www.skills.google/public_profiles/9de5be1e-d798-436c-a2e8-621847847d63/badges/23574242))
+- **Google DeepMind: Train A Language Model** - Google Deepmind ([link](https://www.skills.google/public_profiles/9de5be1e-d798-436c-a2e8-621847847d63/badges/23577960))
 - **Architectural Thinking for Security** — IBM ([link](https://www.credly.com/badges/d976a4b4-ee8e-4151-afab-11099853fc30/public_url))
 - **Practical Introduction to Quantum-Safe Cryptography** — IBM ([link](https://www.credly.com/badges/bd2186da-ec04-4f23-ade0-52e6d4ae71b6/public_url))
 - **Child Protection Fundamentals** — TES
 - **Basic Course in Automobile Technology (BCAT)** — NIE Institute of Technology, Mysuru
+
+
+## Professional Memberships
+
+- **British Computer Society (BCS)** — Professional Member ([link](https://bcs.digitalmembership.co.uk/B816D26/download/certcE995264853Df238914pP8211864.php))
 
 EXTRACURRICULAR ACTIVITIES
 ======
