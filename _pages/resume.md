@@ -12,13 +12,13 @@ redirect_from:
 
 Professional Experience
 ======
-## Lecturer, Security Engineering  
+## Security Engineering (Lecturer), Cyber Security Centre
 **University of Warwick, Coventry, UK**  
 *Dec 2024 – Present*
 - Leading Security and Software Engineering teaching across **three undergraduate modules** to approximately **120 students**, covering programming, secure SDLC, DevSecOps, Linux-based systems, and hands-on engineering exercises.
 
 ---
-## Site Reliability Engineer / Product Solution Consultant in Security Engineering (Platform As a Service)
+## Security Engineer (Platform As a Service)
 **Flipkart Internet Private Limited, Bengaluru, India · Hybrid June 2022 - August 2023**
 - Owned availability, resilience, and secure operation of **large-scale DNS services** processing **10B+ queries per month**.
 - Reduced recurring provider cost to **one‑third** of the original spend through optimisation of DNS and service usage.

@@ -13,9 +13,9 @@ redirect_from:
   <span id="hand-wave">👋</span>
 </div> 
 
-I am a **Lecturer in Security Engineering** at the **University of Warwick**, where I deliver undergraduate teaching in cyber security, software engineering, and secure systems. In my current role, I help build and teach the infrastructure that future security engineers learn on, with a strong emphasis on practical, engineering-led security education.
+I am a **Security Engineering Specialist** in the **Cyber Security Centre at the University of Warwick**, where I design and deliver security and software engineering teaching across undergraduate modules while also contributing to the development of practical engineering infrastructure that supports cyber security education. In my current role, I lead delivery across multiple modules covering programming, secure SDLC, DevSecOps, and Linux-based practical engineering, with a strong emphasis on applied, engineering-led learning.
 
-My professional background spans security engineering, DevSecOps, platform engineering, and large-scale operational systems, with close to a decade of experience across **BT Group**, **Flipkart**, and the **University of Warwick’s Cyber Security Centre**. My work has included enterprise software delivery, production infrastructure, secure platform operations, and hands-on teaching environments that connect theory to real-world systems.
+My professional background spans **security engineering, platform engineering, DevSecOps, and large-scale operational systems**, with experience across the **University of Warwick**, **Flipkart**, **BT Group**, and earlier software engineering roles in enterprise technology environments. 
 
 Across industry roles, I have worked at the intersection of **secure platform operations and engineering delivery**. This has included supporting DNS services handling 10B+ queries per month, building privileged-access automation using HashiCorp Vault and SSH certificate-based access in DMZ environments, and designing TLS/SSL certificate lifecycle processes across 600+ certificates and 4,000+ domains. Earlier work also included application migration, CI/CD modernisation, systems design, and resilience engineering in regulated enterprise settings.
 
