@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-<div id="greeting-container">
+<!-- <div id="greeting-container">
   <span id="greeting"></span> - 
   <span id="language"></span> 
   <span id="hand-wave">👋</span>
-</div> 
+</div>  -->
 
 I am a **Security Engineering Specialist** in the **Cyber Security Centre at the University of Warwick**, where I design and deliver security and software engineering teaching across undergraduate modules while also contributing to the development of practical engineering infrastructure that supports cyber security education. In my current role, I lead delivery across multiple modules covering programming, secure SDLC, DevSecOps, and Linux-based practical engineering, with a strong emphasis on applied, engineering-led learning.
 

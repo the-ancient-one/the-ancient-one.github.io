@@ -14,7 +14,7 @@ description: "Resume of Bharath Sadasivaiah covering security engineering, DevSe
 
 ## Professional Summary
 
-Security Engineer and Teaching Fellow with experience across **platform security**, **security engineering**, and **cyber security education**. Delivered secure and resilient services supporting **10B+ DNS queries per month**, reduced recurring infrastructure spend to **one-third** through service optimisation, improved application security by **30%**, and accelerated delivery timelines by **50%**. Combines hands-on engineering depth in **secure SDLC, DevSecOps, DNS, PKI/TLS, Linux, automation, and cloud-native delivery** with the ability to teach complex concepts clearly through practical, student-focused learning.
+Security Engineer and Teaching Fellow with experience across **platform security**, **security engineering**, and cyber security education. Delivered secure and resilient services supporting 10B+ DNS queries per month, reduced recurring infrastructure spend to one-third through service optimisation, improved application security by 30%, and accelerated delivery timelines by 50%. Combines hands-on engineering depth in **secure SDLC, DevSecOps, DNS, PKI/TLS, Linux, automation, and cloud-native delivery** with the ability to teach complex concepts clearly through practical, student-focused learning.
 
 ## Career Highlights
 
