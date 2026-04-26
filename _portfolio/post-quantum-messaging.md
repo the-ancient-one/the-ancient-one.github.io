@@ -8,7 +8,7 @@ excerpt: "MSc dissertation on post-quantum secure messaging, focusing on hybrid 
 
 MSc dissertation project exploring a **post‑quantum secure messaging system** designed to address the emerging threat of **“Harvest Now, Decrypt Later” (HNDL)** attacks in end-to-end encrypted communication.
 
-## Overview
+## Overview 
 
 With the rise of quantum computing, long-term encrypted communications face increasing risk from adversaries who may capture encrypted data today and decrypt it in the future once quantum-capable systems become available. This project investigates how modern messaging systems can transition toward **post‑quantum cryptography (PQC)** while preserving the core security guarantees expected from secure messaging platforms:
 
@@ -26,7 +26,7 @@ The project studied the cryptographic foundations of secure messaging systems, w
 - **PQXDH**
 - **Double Ratchet**
 
-While much existing work focuses on Signal-based applications such as **Signal**, **WhatsApp**, and similar platforms, this dissertation identified a research and implementation gap in relation to **Keybase**, an end-to-end encrypted messaging, identity verification, and file-sharing system.
+While much existing work focuses on Signal-based applications such as **Signal**, **WhatsApp**, **Facebook Messenger** and similar platforms, this dissertation identified a research and implementation gap in relation to **Keybase**, an end-to-end encrypted messaging, identity verification, and file-sharing system.
 
 ## Key Contributions
 
