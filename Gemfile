@@ -25,6 +25,12 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'hawkins'
   gem "webrick", "~> 1.8"
+  gem "minimal-mistakes-jekyll"
+  gem "jekyll-include-cache"
+  gem "jekyll-seo-tag"
+  gem "jekyll-sitemap"
+  gem "jekyll-feed"
+  gem "jekyll-redirect-from"
 end
 
 gem "jekyll", "~> 3.9"
