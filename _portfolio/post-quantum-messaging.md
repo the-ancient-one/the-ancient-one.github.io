@@ -26,7 +26,7 @@ The project studied the cryptographic foundations of secure messaging systems, w
 - **PQXDH**
 - **Double Ratchet**
 
-While much existing work focuses on Signal-based applications such as **Signal**, **WhatsApp**, **Facebook Messenger** and similar platforms, this dissertation identified a research and implementation gap in relation to **Keybase**, an end-to-end encrypted messaging, identity verification, and file-sharing system.
+While much existing work focuses on Signal-based applications such as **Signal**, **WhatsApp**, **Wire**, **Facebook Messenger** and similar platforms, this dissertation identified a research and implementation gap in relation to **Keybase**, an end-to-end encrypted messaging, identity verification, and file-sharing system.
 
 ## Key Contributions
 
